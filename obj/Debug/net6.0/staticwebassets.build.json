@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pIyu3euBTyLyuV/xBqzqisx7k+kFoXY2KGX4bCWOA9A=",
+  "Source": "Student_Task_Tracker",
+  "BasePath": "_content/Student_Task_Tracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Student_Task_Tracker\\wwwroot",
+      "Source": "Student_Task_Tracker",
+      "ContentRoot": "D:\\project angular\\Student_Task_Tracker\\wwwroot\\",
+      "BasePath": "_content/Student_Task_Tracker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\project angular\\Student_Task_Tracker\\wwwroot\\favicon.ico",
+      "SourceId": "Student_Task_Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project angular\\Student_Task_Tracker\\wwwroot\\",
+      "BasePath": "_content/Student_Task_Tracker",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
